@@ -14,3 +14,4 @@ document.getElementById("mensagem").innerText = "Modo Claro Ativado!";
 
 
         document.getElementById("mensagem").innerText = "Modo escuro ativado!";
+    }
